@@ -8,7 +8,7 @@ export default function Footer() {
     <footer className="footer">
       <div className="container footer-content">
         <div className="footer-brand">
-          <span className="footer-logo">JD</span>
+          <span className="footer-logo">SB</span>
           <p className="footer-tagline">Building digital experiences that matter.</p>
         </div>
 
@@ -23,8 +23,8 @@ export default function Footer() {
 
           <div className="footer-section">
             <h4>Connect</h4>
-            <a href="mailto:hello@example.com">
-              <Mail size={16} /> hello@example.com
+            <a href="mailto:sarthak@example.com">
+              <Mail size={16} /> sarthak@example.com
             </a>
             <a href="https://github.com" target="_blank" rel="noopener noreferrer">
               <Github size={16} /> GitHub
@@ -41,7 +41,7 @@ export default function Footer() {
 
       <div className="footer-bottom">
         <div className="container">
-          <p>&copy; {currentYear} Jane Doe. All rights reserved.</p>
+          <p>&copy; {currentYear} Sarthak Bansal. All rights reserved.</p>
         </div>
       </div>
     </footer>

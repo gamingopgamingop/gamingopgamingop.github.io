@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import { useParams, Link } from 'react-router-dom'
-import { Clock, User, ArrowLeft, Share2, Linkedin, Twitter } from 'lucide-react'
+import { Clock, ArrowLeft, Share2, Linkedin, Twitter } from 'lucide-react'
 import { supabase } from '../lib/supabase'
 import type { BlogPost } from '../types/database'
 import './BlogPost.css'
@@ -142,7 +142,7 @@ export default function BlogPostPage() {
                 )}
                 <div>
                   <p className="bio-name">{post.author}</p>
-                  <p className="bio-text">Full-stack developer passionate about building great products and sharing knowledge with the community.</p>
+                  <p className="bio-text">Full-stack developer passionate about building exceptional digital experiences and sharing knowledge.</p>
                 </div>
               </div>
             </div>

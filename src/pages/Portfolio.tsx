@@ -31,13 +31,13 @@ export default function Portfolio() {
       degree: 'M.S. Computer Science',
       school: 'Stanford University',
       year: '2018',
-      focus: 'Specialized in Human-Computer Interaction and AI',
+      focus: 'Graduated Magna Cum Laude',
     },
     {
       degree: 'B.S. Computer Science',
       school: 'UC Berkeley',
       year: '2016',
-      focus: 'Dean\'s List, Graduated with Honors',
+      focus: 'Dean\'s List, Computer Science Honors Program',
     },
   ]
 

@@ -19,7 +19,7 @@ export default function Layout() {
       <header className="header">
         <div className="container header-content">
           <a href="/" className="logo">
-            <span className="logo-text">JD</span>
+            <span className="logo-text">SB</span>
           </a>
 
           <button

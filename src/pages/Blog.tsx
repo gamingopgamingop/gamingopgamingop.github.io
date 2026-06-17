@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { Clock, User, ArrowRight } from 'lucide-react'
+import { Clock, ArrowRight } from 'lucide-react'
 import { Link } from 'react-router-dom'
 import { supabase } from '../lib/supabase'
 import type { BlogPost } from '../types/database'

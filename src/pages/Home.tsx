@@ -42,7 +42,7 @@ export default function Home() {
               <span>Available for new projects</span>
             </div>
             <h1 className="hero-title">
-              Hi, I'm <span className="highlight">Jane Doe</span>
+              Hi, I'm <span className="highlight">Sarthak Bansal</span>
             </h1>
             <h2 className="hero-subtitle">Full-Stack Developer & Designer</h2>
             <p className="hero-description">
@@ -62,7 +62,7 @@ export default function Home() {
             <div className="hero-image-wrapper">
               <img
                 src="https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&w=800"
-                alt="Developer workspace"
+                alt="Developer workspace - Sarthak Bansal"
                 className="hero-image"
               />
               <div className="hero-decoration"></div>
